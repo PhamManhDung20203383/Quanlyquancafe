@@ -6,7 +6,6 @@ https://github.com/PhamManhDung20203383/Quanlyquancafe
 - Nhân viên: Tài khoản: staff Mật khẩu: 0
 
 # Link git
-Link git
 - https://github.com/PhamManhDung20203383/Quanlyquancafe
 
 # Hướng dẫn cài đặt source code
