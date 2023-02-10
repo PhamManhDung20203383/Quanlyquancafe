@@ -5,10 +5,11 @@ https://github.com/PhamManhDung20203383/Quanlyquancafe
 - Quản lý: Tài khoản: admin@gmail.com Mật khẩu: 123456
 - Nhân viên: Tài khoản: staff Mật khẩu: 0
 
-# Link git và hướng dẫn cài đặt source code
+# Link git
 Link git
 - https://github.com/PhamManhDung20203383/Quanlyquancafe
-Hướng dẫn cài đặt source code
+
+# Hướng dẫn cài đặt source code
 - https://husteduvn-my.sharepoint.com/:w:/g/personal/dung_pm203383_sis_hust_edu_vn/EUcB0zKfEPlBkKkeBfIKNo0BBcDoUoXzygJ_k_jx8BTfEg?e=AQPCDo
 
 # Link đến bài viết trên wordpress
